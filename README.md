@@ -172,7 +172,6 @@ Include screenshot of the generated data
 ### OUTPUT
 
 ### Training Loss Vs Iteration Plot
-<img width="596" height="698" alt="image" src="https://github.com/user-attachments/assets/adff7d36-8440-4191-a5fb-2b25d257c4d7" />
 <img width="702" height="583" alt="image" src="https://github.com/user-attachments/assets/3de29c99-8a55-478a-9bcb-e0dfc3f497ad" />
 
 
